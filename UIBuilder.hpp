@@ -4,6 +4,7 @@
 #include <concepts>
 #include <functional>
 #include <vector>
+#include <Geode/ui/Layout.hpp>
 #include "UIBuildMacros.hpp"
 
 // Include GD and cocos2d classes before this
